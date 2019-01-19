@@ -4,6 +4,8 @@
 
 I built this to stream the webcam attached to my [OctoPi](https://octoprint.org/) to [YouTube Live](https://www.youtube.com/channel/UC4R8DWoMoI7CAwX8_LjQHig). There is nothing more excting then watching a live stream of a 3D printer laying down lines of plastic, right?
 
+The [Dockerfile](https://github.com/adilinden-oss/docker-rpi-stream/blob/master/Dockerfile) is on GitHub [adilinden-oss/docker-rpi-stream](https://github.com/adilinden-oss/docker-rpi-stream).
+
 ## Prerequisities
 
 A Raspberry Pi with docker installed.
