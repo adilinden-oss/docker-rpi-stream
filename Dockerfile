@@ -1,4 +1,4 @@
-FROM adilinden/rpi-ffmpeg:20190119
+FROM adilinden/rpi-ffmpeg:latest
 
 COPY entry.sh entry.sh
 RUN chmod +x entry.sh
