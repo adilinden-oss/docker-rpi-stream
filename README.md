@@ -35,6 +35,8 @@ Run with `octopi-youtubelive` command and a number of arguments to stream the [O
 - YouTube Live Stream Name/Key (Example: xxxx-xxxx-xxxx-xxxx)
 - OctoPi Filter (Example: null)
 
+Example
+
     docker run -it --rm --privileged adilinden/rpi-stream:latest octopi-youtubelive \
         http://192.168.1.34:8080/?action=stream \
         rtmp://a.rtmp.youtube.com/live2 \
